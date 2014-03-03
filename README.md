@@ -19,4 +19,4 @@ File issues on the Github issue tracker and send pull requests.
 For coding contributions, you will need to be familiar with the Firefox Add-on SDK: 
 https://developer.mozilla.org/en-US/Add-ons/SDK
 
-Thanks for your interest and stay away from porn!
+# Thanks for your interest and stay away from porn!
